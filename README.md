@@ -3,4 +3,4 @@ P_background.css呈現遊戲的外框架的選擇頁面（如下圖左一。下�
 <img src="https://github.com/Bellayao06/text-assistant/blob/main/%E5%9C%96%E7%89%87%203.png" width="220" height="300" >
 <img src="https://github.com/Bellayao06/text-assistant/blob/main/%E5%9C%96%E7%89%87%201.png" width="220" height="300" >
 <img src="https://github.com/Bellayao06/text-assistant/blob/main/%E5%9C%96%E7%89%87%202.png" width="220" height="300" >
-<img src="https://github.com/Bellayao06/text-assistant/blob/main/%E5%9C%96%E7%89%87%204.png" width="220" height="300" >
+<img src="https://github.com/Bellayao06/text-assistant/blob/main/%E5%9C%96%E7%89%87%204.png" width="20" height="300" >
